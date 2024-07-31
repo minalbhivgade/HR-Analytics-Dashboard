@@ -11,7 +11,7 @@ This project involves creating an HR Analytics Dashboard using Power BI, focusin
 - **Years at Company:** New employees, especially within their first year, have the highest attrition
 
 ## Additional Insights
-- **Gender Ratio:** 60% males, 40% females
+- **Gender Ratio:** 64% males, 36% females
 
 ## Tools Used
 - **Power BI:** For data visualization and creating interactive dashboards
